@@ -113,4 +113,5 @@ dictionary["Beka"] = 3
 
 print(dictionary)
 print("Nice") if "Mirzo" in dictionary else print("Bad!")
+
 # d.get("x", 0)
