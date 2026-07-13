@@ -113,7 +113,10 @@ dictionary["Beka"] = 3
 fvdvf
 
 vfddfvvdf
-fvdvfvf
+fvdvfvfv
+vfddfvvdfff
+fvdvffvd
+fdv
 
 
 # dictionary.pop("Ozodbek")
