@@ -111,7 +111,10 @@ dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
 
 
-
+njejvf
+fvdvffvd
+vfd
+vdf
 
 
 
