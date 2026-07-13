@@ -109,9 +109,22 @@
 
 dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
+
+
+
 # dictionary.pop("Ozodbek")
 
-print(dictionary)
-print("Nice") if "Mirzo" in dictionary else print("Bad!")
+# print(dictionary.keys())
+# print(dictionary.values())
+# print(dictionary.items())
+
+# for k, v in dictionary.items():
+#     print(k, end=" ")
+#     print(v)
+
+
+
+
+# print("Nice") if "Mirzo" in dictionary else print("Bad!")
 
 # d.get("x", 0)
