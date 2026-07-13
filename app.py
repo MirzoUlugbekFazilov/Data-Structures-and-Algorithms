@@ -114,9 +114,7 @@ fvdvf
 
 vfddfvkopopk
 
-findf
-fvdvfvf
-fffvfvf
+
 
 # dictionary.pop("Ozodbek")
 
