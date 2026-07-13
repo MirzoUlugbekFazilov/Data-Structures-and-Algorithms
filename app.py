@@ -110,6 +110,10 @@
 dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
 
+# print(dictionary[10])
+# print(dictionary.get("Mirzo"))
+dictionary.update({"Ozodbek" : 230, "Newone" : 100})
+print(dictionary)
 
 # dictionary.pop("Ozodbek")
 
