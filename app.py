@@ -109,9 +109,7 @@
 
 dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
-f
-vddff
-print("efeo")
+lvfdp
 
 
 # dictionary.pop("Ozodbek")
