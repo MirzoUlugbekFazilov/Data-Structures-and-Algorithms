@@ -107,13 +107,13 @@
 
 # Hash Maps
 
-dictionary = {"Mirzo": 10, "Ozodbek": 7}
-dictionary["Beka"] = 3
+# dictionary = {"Mirzo": 10, "Ozodbek": 7}
+# dictionary["Beka"] = 3
 
 # print(dictionary[10])
 # print(dictionary.get("Mirzo"))
-dictionary.update({"Ozodbek" : 230, "Newone" : 100})
-print(dictionary)
+# dictionary.update({"Ozodbek" : 230, "Newone" : 100})
+# print(dictionary)
 
 # dictionary.pop("Ozodbek")
 
@@ -131,3 +131,11 @@ print(dictionary)
 # print("Nice") if "Mirzo" in dictionary else print("Bad!")
 
 # d.get("x", 0)
+
+# set = {1, 4, 7}
+# set.add(4)
+
+# set.remove(6) if 6 in set else print("There is no 6")
+# set.discard(8)
+
+# print(set)
