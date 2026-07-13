@@ -112,6 +112,7 @@ dictionary["Beka"] = 3
 
 print(dictionary["Beka"])
 print("Hello Wrold")
+print("Nice")
 
 
 # dictionary.pop("Ozodbek")
