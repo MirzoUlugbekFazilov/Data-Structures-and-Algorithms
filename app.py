@@ -114,6 +114,11 @@ fvdvf
 
 vfddfvkopopk
 
+findf
+fvdvfvf
+vfddfvkopopkffd
+fddf
+
 
 
 # dictionary.pop("Ozodbek")
