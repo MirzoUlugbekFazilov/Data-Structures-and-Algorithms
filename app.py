@@ -110,13 +110,7 @@
 dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
 
-vfvdffv
-fdv
-vfvdffvfv
-fvfdv
-vfvdffvfvfvfv
-vfdv
-fvf
+fvdvf
 
 
 # dictionary.pop("Ozodbek")
