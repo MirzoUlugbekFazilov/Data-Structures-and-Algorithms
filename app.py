@@ -109,10 +109,8 @@
 
 dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
+nice
 
-print(dictionary["Beka"])
-print("Hello Wrold")
-print("Nice")
 
 
 # dictionary.pop("Ozodbek")
