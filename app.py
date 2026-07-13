@@ -40,11 +40,11 @@
 
 
 # 3 rows and 4 columns
-matrix = [
-    [1, 2, 3, 4],
-    [5, 6, 7, 8],
-    [9, 10, 11, 12]
-]
+# matrix = [
+#     [1, 2, 3, 4],
+#     [5, 6, 7, 8],
+#     [9, 10, 11, 12]
+# ]
 
 # matrix[0].pop()
 # for row in matrix:
@@ -66,7 +66,11 @@ matrix = [
 # words.sort(reverse=True)
 # print(words)
 
-word = "Hello World dgdf gffd dfgvfd"
-words = []
-words = word.split()
-print(words)
+word = "Hello World dgdf gffd dfgvfd. "
+# words = []
+# words = word.split()
+
+# wordsnew = " ".join(words).split(" ")
+# word.strip()
+result = word.lower()
+print(result)
