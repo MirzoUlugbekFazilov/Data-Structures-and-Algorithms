@@ -108,7 +108,9 @@
 # Hash Maps
 
 dictionary = {"Mirzo": 10, "Ozodbek": 7}
-dictionary["c"] = 3
-dictionary.pop()
+dictionary["Beka"] = 3
+# dictionary.pop("Ozodbek")
+
 print(dictionary)
+print("Nice") if "Mirzo" in dictionary else print("Bad!")
 # d.get("x", 0)
