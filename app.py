@@ -111,7 +111,6 @@ dictionary = {"Mirzo": 10, "Ozodbek": 7}
 dictionary["Beka"] = 3
 
 print(dictionary["Beka"])
-print(bro)
 
 # dictionary.pop("Ozodbek")
 
