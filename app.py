@@ -66,11 +66,20 @@
 # words.sort(reverse=True)
 # print(words)
 
-word = "Hello World dgdf gffd dfgvfd. "
+# word = "Hello World dgdf gffd dfgvfd. "
 # words = []
 # words = word.split()
 
 # wordsnew = " ".join(words).split(" ")
 # word.strip()
-result = word.lower()
-print(result)
+# result = word.upper()
+# print(result)
+
+# word = word.upper()
+# print(word)
+
+
+
+word1 = "impossible"
+word1.replace("m", "s")
+print(word1)
