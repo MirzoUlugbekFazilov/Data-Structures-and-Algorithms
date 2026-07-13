@@ -112,7 +112,7 @@ dictionary["Beka"] = 3
 
 print(dictionary["Beka"])
 print(hello)
-bro
+dictionary
 
 # dictionary.pop("Ozodbek")
 
