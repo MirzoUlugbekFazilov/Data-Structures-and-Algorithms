@@ -80,6 +80,35 @@
 
 
 
-word1 = "impossible"
-word1.replace("m", "s")
-print(word1)
+# word1 = "impossible nope"
+# word1 = word1.replace("i", "not i")
+# print(word1.find("e"))
+# print(word1.startswith("not "))
+# print(word1.endswith("ble"))
+# print(word1[::-1])
+# bro = list(word1)
+# print(bro)
+# print(bro[0], end = " ")
+# print(bro, end = " ")
+# newone = "   ".join(bro)
+# print(newone)
+
+# word = "life"
+# print("Nice!") if word.isalpha() else print("Bad!")
+
+# number = 777
+# number = str(number)
+# secondnum = number + 23
+# print(secondnum)
+
+# word = "777"
+# word = int(word)
+# print(word+23)
+
+# Hash Maps
+
+dictionary = {"Mirzo": 10, "Ozodbek": 7}
+dictionary["c"] = 3
+dictionary.pop()
+print(dictionary)
+# d.get("x", 0)
