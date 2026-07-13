@@ -140,3 +140,8 @@
 
 # print(set)
 
+from collections import deque
+
+q = deque(1, 5, 6)
+q.append(4)
+print(q)
