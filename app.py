@@ -140,8 +140,19 @@
 
 # print(set)
 
-from collections import deque
+# from collections import deque Stack/queue FIFO
 
-q = deque(1, 5, 6)
-q.append(4)
-print(q)
+# q = deque([1, 5, 6])
+# q.append(4)
+# q.pop()
+# print(q)
+
+# Heap LIFO
+
+import heapq 
+h = []
+heapq.heappush(h, 5)
+heapq.heappush(h, 7)
+# heapq.heappop(h)
+
+print(h)
