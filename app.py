@@ -156,3 +156,5 @@ heapq.heappush(h, 7)
 # heapq.heappop(h)
 
 print(h)
+
+print("Hello")
