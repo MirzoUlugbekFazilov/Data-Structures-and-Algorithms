@@ -157,7 +157,6 @@ heapq.heappush(h, 7)
 
 print("Hello")
 
-print("Hello")
 m = 10
 
 
