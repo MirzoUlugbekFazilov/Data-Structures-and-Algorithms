@@ -152,7 +152,7 @@
 import heapq 
 h = []
 heapq.heappush(h, 5)
-heapq.heappush(h, 7)
+
 # heapq.heappop(h)
 
 print("Hello")
