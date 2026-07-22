@@ -150,7 +150,7 @@
 # Heap LIFO
 
 import heapq 
-h = []
+
 
 
 print("Hello")
