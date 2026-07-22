@@ -163,7 +163,5 @@ m = 15
 
 print("hello world")
 m=7
-s=5
-dc
-dfgvfd
+
 print("Hello World")
