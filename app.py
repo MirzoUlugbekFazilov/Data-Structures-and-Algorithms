@@ -151,9 +151,7 @@
 
 import heapq 
 h = []
-heapq.heappush(h, 5)
 
-# heapq.heappop(h)
 
 print("Hello")
 
