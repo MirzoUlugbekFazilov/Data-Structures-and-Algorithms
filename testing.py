@@ -4,6 +4,6 @@ print("Nice")
 vfvfdd
 fevef
 vfdfvdfvfdvfv
-dsosdk
+dsos
 df
 f
