@@ -20,19 +20,14 @@ print(f"y_train = {y_train}")
 # print(f"(x^({i}), y^({i})) = ({x_i}, {y_i})")
 
 # Plot the data points
-plt.scatter(x_train, y_train, marker='x', c='r')
-# Set the title
-plt.title("Housing Prices")
-# Set the y-axis label
-plt.ylabel('Price (in 1000s of dollars)')
-# Set the x-axis label
-plt.xlabel('Size (1000 sqft)')
-plt.show()
-
-w = 100
-b = 100
-print(f"w: {w}")
-print(f"b: {b}")
+# plt.scatter(x_train, y_train, marker='x', c='r')
+# # Set the title
+# plt.title("Housing Prices")
+# # Set the y-axis label
+# plt.ylabel('Price (in 1000s of dollars)')
+# # Set the x-axis label
+# plt.xlabel('Size (1000 sqft)')
+# plt.show()
 
 
 def compute_model_output(x, w, b):
@@ -52,7 +47,13 @@ def compute_model_output(x, w, b):
     return f_wb
 
 
-    tmp_f_wb = compute_model_output(x_train, w, b,)
+w = 100
+b = 100
+print(f"w: {w}")
+print(f"b: {b}")
+
+
+tmp_f_wb = compute_model_output(x_train, w, b,)
 
 # Plot our model prediction
 plt.plot(x_train, tmp_f_wb, c='b',label='Our Prediction')
@@ -68,3 +69,5 @@ plt.ylabel('Price (in 1000s of dollars)')
 plt.xlabel('Size (1000 sqft)')
 plt.legend()
 plt.show()
+
+print("hello")
