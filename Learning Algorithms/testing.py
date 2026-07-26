@@ -71,3 +71,4 @@ plt.legend()
 plt.show()
 
 print("hello")
+m = 7
