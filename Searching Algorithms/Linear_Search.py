@@ -2,10 +2,10 @@
 # Average Complexity: O(n/2)
 # Worst Complexity: O(n)
 
-numbers = [7, 2, 3, 4, 5]
-finder = 7
 
 # Best Case — O(1)
+numbers = [7, 2, 3, 4, 5]
+finder = 7
 for i, num in enumerate(numbers):
     if num == finder:
         print("Found at index:", i)
