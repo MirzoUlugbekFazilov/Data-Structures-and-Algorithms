@@ -7,18 +7,18 @@
 numbers = [1, 2, 3, 4, 5]
 finder = 3
 
-left, right = 0, len(numbers) - 1
+# left, right = 0, len(numbers) - 1
 
-while left <= right:
-    mid = (left + right) // 2
+# while left <= right:
+#     mid = (left + right) // 2
 
-    if numbers[mid] == finder:
-        print("Found at index:", mid)
-        break
-    elif numbers[mid] > finder:
-        right = mid - 1
-    else:
-        left = mid + 1
+#     if numbers[mid] == finder:
+#         print("Found at index:", mid)
+#         break
+#     elif numbers[mid] > finder:
+#         right = mid - 1
+#     else:
+#         left = mid + 1
 
 
 # Average Case — O(log n)
