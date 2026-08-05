@@ -26,7 +26,6 @@ print(sorted_numbers)  # [1, 2, 3, 3]
 
 
 
-# Average Case — moderate range
 numbers = [4, 1, 2]
 
 min_val = min(numbers)
