@@ -6,7 +6,6 @@ class Node:
         self.right = None       # right child (bigger values)
 
 
-# Insert a value into the tree
 def insert(root, value):
     # If tree is empty, create a new node
     if root is None:
