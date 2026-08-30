@@ -6,7 +6,7 @@
 #| Access by index       |                          O(1)   |
 #| Update by index       |                          O(1)   |
 #| Search unsorted array |                          O(n)   |
-#| Search sorted array   |   O(log n) + with binary search |
+#| Search sorted array   |      O(log n) + binary search   |
 #| Append                |                          O(1)   |
 #| Insert at beginning   |                          O(n)   |
 #| Insert in middle      |                          O(n)   |
