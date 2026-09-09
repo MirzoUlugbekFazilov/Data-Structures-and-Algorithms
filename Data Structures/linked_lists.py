@@ -626,7 +626,7 @@ print(linked_list.has_cycle())
 # ==========================================
 
 """
-Operation                         Complexity
+Operation                        Complexity
 
 Access by index                  O(n)
 
@@ -637,7 +637,7 @@ Insert at beginning              O(1)
 Delete at beginning              O(1)
 
 Insert at end                    O(n)
-                                  (without tail pointer)
+(without tail pointer)
 
 Delete at end                    O(n)
 
