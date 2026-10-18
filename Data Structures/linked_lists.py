@@ -75,7 +75,6 @@ class LinkedList:
 
         self.head = new_node
 
-
 linked_list = LinkedList()
 
 linked_list.insert_at_beginning(30)
@@ -119,7 +118,7 @@ linked_list.insert_at_beginning(30)
 linked_list.insert_at_beginning(20)
 linked_list.insert_at_beginning(10)
 
-linked_list.print_list()
+linked_list.print_list() 
 
 
 # ==========================================
